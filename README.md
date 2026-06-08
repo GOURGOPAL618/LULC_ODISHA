@@ -1,4 +1,4 @@
-# 🌍 Automated LULC Classification: Odisha Coastal Zone
+# **🌍 Automated LULC Classification: Odisha Coastal Zone**
 
 ![Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white)
 ![Sentinel-2](https://img.shields.io/badge/Copernicus_Sentinel--2-004C97?style=for-the-badge&logo=esa&logoColor=white)
