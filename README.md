@@ -3,15 +3,14 @@
 
 ---
 
-<p align="center">
-  ![Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white)
-  ![Sentinel-2](https://img.shields.io/badge/Copernicus_Sentinel--2-004C97?style=for-the-badge&logo=esa&logoColor=white)
-  ![QGIS](https://img.shields.io/badge/QGIS_Validation-589632?style=for-the-badge&logo=qgis&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-  ![Documentation](https://img.shields.io/badge/Documentation-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-</p>
+![Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white)
+![Sentinel-2](https://img.shields.io/badge/Copernicus_Sentinel--2-004C97?style=for-the-badge&logo=esa&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS_Validation-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+![Documentation](https://img.shields.io/badge/Documentation-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
