@@ -105,6 +105,8 @@ The classification array was validated over live Earth Observation basemaps insi
 │   └── 🖼️ ODISHA_LULC_QGIS.jpeg           <-- Live Verification Basemap
 │
 ├── 📄 requirements.txt
+├── 📄 DATA_GOVERNANCE.md               <-- Sensor Radiometric Provenance [SPECIAL]
+├── 📄 environment.yml                  <-- Conda Spatial Forge Matrix [SPECIAL]
 ├── 📄 SECURITY.md
 └── 📄 stac_catalog.json                <-- SpatioTemporal Database Spec [SPECIAL]
 ├── 📄 LICENSE                              <-- Deployed under Apache 2.0 Architecture
