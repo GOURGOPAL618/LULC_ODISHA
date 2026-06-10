@@ -1,1 +1,15 @@
+# 🛰️ Core Geospatial Engine & Multispectral Data Processing
+gdal==3.8.4
+rasterio==1.3.9
+fiona==1.9.5
+shapely==2.0.2
+geopandas==0.14.1
 
+# 🧠 Machine Learning Engine & Data Structuring
+scikit-learn==1.3.2
+numpy==1.26.2
+pandas==2.1.3
+
+# 📊 Analytics & Visualizations Dashboard
+matplotlib==3.8.2
+seaborn==0.13.0
