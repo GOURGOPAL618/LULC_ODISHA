@@ -104,5 +104,8 @@ The classification array was validated over live Earth Observation basemaps insi
 │   ├── 🖼️ odisha_lulc_executive_dashboard.png <-- Graphical Metrics Panel
 │   └── 🖼️ ODISHA_LULC_QGIS.jpeg           <-- Live Verification Basemap
 │
+├── 📄 requirements.txt
+├── 📄 SECURITY.md
+└── 📄 stac_catalog.json                <-- SpatioTemporal Database Spec [SPECIAL]
 ├── 📄 LICENSE                              <-- Deployed under Apache 2.0 Architecture
 └── 📝 README.md                           <-- Pipeline Documentation Asset
