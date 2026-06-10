@@ -1,1 +1,26 @@
-
+{
+  "stac_version": "1.0.0",
+  "type": "Catalog",
+  "id": "odisha-coastal-lulc-catalog",
+  "title": "SpatioTemporal Asset Catalog for Odisha Coastal LULC Framework",
+  "description": "This catalog indexes the high-resolution Sentinel-2 multispectral classification outputs and corresponding GeoJSON vector boundaries deployed over the Odisha coastline framework.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./stac_catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./vectors/odisha_shoreline_bounds.geojson",
+      "type": "application/geo+json",
+      "title": "Area of Interest (AOI) Boundary Geometry Vector"
+    },
+    {
+      "rel": "item",
+      "href": "./outputs/odisha_lulc.png",
+      "type": "image/png",
+      "title": "Classified Earth Observation LULC Output Map Layer"
+    }
+  ]
+}
