@@ -73,7 +73,7 @@ The proportional density and exact spatial volume metrics are detailed in the hi
 
 ### **4.2 Memory-Optimized Block-Window Engine**
 To avoid memory buffer overflows on raw spatial matrices measuring **25,604 x 18,412 pixels**, a dedicated chunking framework was introduced:
-1.  **Grid Dimensions:** Native matrix evaluated in uniform $512 \times 512$ tile arrays.
+1.  **Grid Dimensions:** Native matrix evaluated in unifoom $512 \times 512$ tile arrays.
 2.  **NoData Discard Optimization:** Immediate check utilizing `np.all(block == 0)` drops deep sea or unmapped background coordinates prior to evaluation, reducing overall load by half.
 3.  **NVMe Target I/O Pipelines:** Predictions are committed page-by-page onto local high-speed physical storage blocks before final integration.
 
