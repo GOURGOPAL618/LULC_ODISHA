@@ -1,5 +1,6 @@
 # 🛡️ Spatial Protocol & Algorithmic Security Policy
 
+
 ---
 
 ## 📌 1. Mission Statement & Security Philosophy
